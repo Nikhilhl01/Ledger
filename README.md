@@ -1,3 +1,8 @@
+# About Ledger:
+
+Ledger is a sleek and efficient frontend web application built with React, designed to function as a real-time ledger book. The platform allows users to manage their financial records seamlessly. Key features include user authentication via Axios, enabling secure access and data management. Users can create, edit, and delete ledger entries, making it a powerful tool for personal or business finance tracking. The intuitive interface ensures that managing your finances is both simple and effective, mirroring the experience of using a traditional ledger book in a modern, digital format
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
