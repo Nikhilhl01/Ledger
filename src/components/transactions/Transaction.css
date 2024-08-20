@@ -1,0 +1,17 @@
+.trans-list-page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.total-amount {
+  font-size: 18px;
+  margin-bottom: 15px;
+  margin-right: 100px;
+}
+
+.my-buttons {
+  background-color: #19a4ee;
+  margin-left: 20px;
+}
